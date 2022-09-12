@@ -17,7 +17,7 @@
 
 
 ### Un gusto verte por aquí!  
-Soy programador Full Stack en proceso, actualmente alumno de secundario, realizando un curso en Egg Education y ingresante a la Universidad Tecnológica Nacional de Mendoza para Ingeniería en Sistemas de Información.
+Soy programador Full Stack en proceso, actualmente alumno de secundario, realizando un curso en Egg Education y ingresante a la Universidad Tecnológica Nacional de Mendoza para Ingeniería en Sistemas de Información. Actualmente manejando java y github, me gusta realizar todo tipo de tareas en la pc y disfruto de informarme todos los dias de algo nuevo.
   
   
 
