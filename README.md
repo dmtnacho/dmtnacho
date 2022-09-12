@@ -24,7 +24,7 @@ Soy programador Full Stack en proceso, actualmente alumno de secundario, realiza
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -36,7 +36,7 @@ Soy programador Full Stack en proceso, actualmente alumno de secundario, realiza
 <br/>  
 
 
-## Github Stats  
+## Github Estadisticas 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dmtnacho&show_icons=true&count_private=true&hide_border=true" align="left" />
@@ -53,7 +53,7 @@ Soy programador Full Stack en proceso, actualmente alumno de secundario, realiza
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dmtnacho&&style=flat-square)  
+![Visualizaciones del Perfil](https://komarev.com/ghpvc/?username=dmtnacho&&style=flat-square)  
   
 
 <br/>  
