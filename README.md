@@ -1,5 +1,4 @@
 # Ignacio Gutierrez
 
-#### Hello I'm Nacho! And i help people with game problems and all stuff.
+#### Hello I'm Nacho!
 
-Soy organizador de distintos servidores de discord.
