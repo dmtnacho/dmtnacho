@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Alterno®**
 
-- 🌱 I’m currently learning **Web Desing from CoderHouse.**
+- 🌱 I’m currently learning **Web Desing.**
 
 - 📫 How to reach me **ignacioguti191@gmail.com**
 
