@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmtnacho&label=Profile%20views&color=9429ff&style=flat-square" alt="dmtnacho" /> </p>
 
-- 🔭 I’m currently working on [Alterno®](https://alternoproyect.000webhostapp.com)
+- 🔭 I’m currently working on Bifast
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **ignacioguti191@gmail.com**
 
